@@ -4,6 +4,7 @@ import os
 import sys
 from tqdm import tqdm
 
+#Some of the functionality of the code is diabled, there is still more  work to be done to make the code user friendly.
 
 def select_file():
     """
